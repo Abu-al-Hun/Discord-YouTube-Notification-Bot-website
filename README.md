@@ -1,7 +1,3 @@
-# 📄 `README.md`
-
-Save the following as `README.md` in the project root.
-
 ```markdown
 # Discord YouTube Notification Bot
 
