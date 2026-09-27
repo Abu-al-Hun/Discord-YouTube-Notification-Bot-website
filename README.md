@@ -37,9 +37,8 @@ It is ideal for content creators, community managers, and small servers that nee
 
 | Version | Download Link |
 |---------|---------------|
-| **v1.0** | [Download v1.0](https://github.com/Abu-al-Hun/Discord-YouTube-Notification-Bot-website/releases/download/Discord-YouTube-Notification-Bot-website/Discord-YouTube-Notification-Bot-website.v.1.0.zip) |
-| **v2.0** | [Download v2.0](https://github.com/Abu-al-Hun/Discord-YouTube-Notification-Bot-website/releases/download/Discord-YouTube-Notification-Bot-website/Discord-YouTube-Notification-Bot-website.v.2.0.zip) |
-
+[![Download v1.0](https://img.shields.io/badge/Download-v1.0-blue?style=for-the-badge&logo=github)](https://github.com/Abu-al-Hun/Discord-YouTube-Notification-Bot-website/releases/download/Discord-YouTube-Notification-Bot-website/Discord-YouTube-Notification-Bot-website.v.1.0.zip)
+[![Download v2.0](https://img.shields.io/badge/Download-v2.0-green?style=for-the-badge&logo=github)](https://github.com/Abu-al-Hun/Discord-YouTube-Notification-Bot-website/releases/download/Discord-YouTube-Notification-Bot-website/Discord-YouTube-Notification-Bot-website.v.2.0.zip)
 ---
 
 ## Requirements
