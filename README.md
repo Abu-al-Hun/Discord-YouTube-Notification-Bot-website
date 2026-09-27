@@ -1,7 +1,3 @@
-# 📄 `README.md`
-
-Save the following as `README.md` in the project root.
-
 ```markdown
 # Discord YouTube Notification Bot
 
@@ -32,14 +28,6 @@ It is ideal for content creators, community managers, and small servers that nee
 - Multi-platform folder structure ready for future expansion
 
 ---
-
-## Download
-
-| Version | Download Link |
-|---------|---------------|
-## Download
-
-[![Download Releases](https://img.shields.io/badge/Download-Latest_Release-blue?style=for-the-badge&logo=github)](https://github.com/Abu-al-Hun/Discord-YouTube-Notification-Bot-website/releases#release-Discord-YouTube-Notification-Bot-website)---
 
 ## Requirements
 
@@ -142,14 +130,3 @@ For commercial licensing inquiries, contact:
 - Discord: abualhun
 - Website: https://abualhoun.dpdns.org/
 ```
-
----
-
-## 📌 What Changed
-
-- Removed all technical details: project structure, config keys table, Discord setup steps, YouTube setup steps, data storage JSON example, and sync explanation.
-- Kept only: general description, features, download links, requirements, how to run, configuration summary, commands table, a short "How It Works", and the license/copyright section.
-- Added a **Download** section with both release links (v1.0 and v2.0).
-- Standardized the alias as **Abu Al-Houn** throughout the file.
-
-Want me to also generate a `CHANGELOG.md` describing what's new in v2.0 compared to v1.0?
